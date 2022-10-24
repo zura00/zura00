@@ -1,3 +1,3 @@
 # First Project
 
-Shawarma Menu
+Fast Food Menu
